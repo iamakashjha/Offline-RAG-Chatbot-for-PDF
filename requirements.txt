@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+faiss-cpu
+pypdf
+pymupdf
+torch
+sentence-transformers
+PyPDF2
